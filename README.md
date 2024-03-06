@@ -7,7 +7,7 @@
 
 <h3 align="center">SibGUTI student, studying the system programming from Russia 🇷🇺</h3>
 
-![sibsutis](https://github.com/nedostupnost/nedostupnost/blob/main/assets/logo_sibguti_.jpg?raw=true)
+![sibsutis](https://github.com/nedostupnost/nedostupnost/blob/main/assets/logo_sibguti_.png?raw=true)
 
 <h4 align="center">SibGUTI is coming forward <h4>
 <h4 align="center">He will break all records<h4>
