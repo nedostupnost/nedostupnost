@@ -5,4 +5,9 @@
 
 <h3 align="center">SibGUTI student, studying the system programming from Russia 🇷🇺</h3>
 
-![sibsutis]()
+![sibsutis](https://github.com/nedostupnost/nedostupnost/blob/main/assets/logo_sibguti_.jpg?raw=true)
+
+<h4 align="center">SibGUTI is coming forward <h4>
+<h4 align="center">He will break all records<h4>
+<h4 align="center">You can't find a better headquarters<h4>
+<h4 align="center">SibGUTI fly forward<h4>
