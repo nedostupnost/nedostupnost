@@ -1,7 +1,9 @@
 <h1 align="center">Shalom, I'm <a href="https://github.com/nedostupnost" target="_blank">nedostupnost</a>
 <img src="https://github.com/nedostupnost/nedostupnost/blob/main/assets/star%20(467).gif?raw=true" height="32"/></h1>
 
-![me](https://github.com/nedostupnost/nedostupnost/blob/main/assets/videoplayback.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/nedostupnost/nedostupnost/blob/main/assets/videoplayback.gif?raw=true" alt="animated" />
+</p>
 
 <h3 align="center">SibGUTI student, studying the system programming from Russia 🇷🇺</h3>
 
